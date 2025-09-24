@@ -34,7 +34,9 @@ Using a dataset of secondary school students, we apply **machine learning, deep 
 - Decision Tree  
 - Random Forest  
 - Support Vector Machine (SVM)  
-- Neural Network (**Keras**)  
+- Neural Network (**Keras**)
+- <img width="1189" height="590" alt="image" src="https://github.com/user-attachments/assets/5a1ea597-4fdf-4c61-91ec-d31c64d6e3c0" />
+
 
 ### 💬 NLP Sentiment Analysis
 - Student feedback analyzed with **TextBlob** and **VADER**  
