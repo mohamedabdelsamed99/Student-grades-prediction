@@ -40,7 +40,9 @@ Using a dataset of secondary school students, we apply **machine learning, deep 
 
 ### 💬 NLP Sentiment Analysis
 - Student feedback analyzed with **TextBlob** and **VADER**  
-- Sentiment scores mapped to **performance risk levels**  
+- Sentiment scores mapped to **performance risk levels**
+- <img width="545" height="393" alt="image" src="https://github.com/user-attachments/assets/b7c6f160-19bc-4dca-8b56-f3c70a0ce30b" />
+
 
 ### 📊 Evaluation Metrics
 - Accuracy, Precision, Recall, F1-score  
