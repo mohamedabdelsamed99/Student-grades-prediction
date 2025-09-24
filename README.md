@@ -56,7 +56,11 @@ Using a dataset of secondary school students, we apply **machine learning, deep 
   - Scaler  
   - Feature columns  
   - Numeric columns  
-  - Risk labels  
+  - Risk labels
+  - <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ff3e4b6b-0732-4bfd-b5db-e4896098f9d3" />
+  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/452235c6-827b-4d25-8087-c250393f780f" />
+
+
 
 ### ⚖️ Ethical Considerations
 - No personal identifiers included in data  
